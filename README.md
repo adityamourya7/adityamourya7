@@ -7,9 +7,24 @@
 ### 💻 About Me
 
 * 🌱 I’m currently learning **Next.js, a React framework!**
-* 📫 How to reach me: **your-email@example.com**
 * 🎯 My current goal is to learn different **technologies & libraries** and complete my **Full Stack Development** journey.
 * 💻 Focused on learning, improving, and making projects.
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/aditya-mourya-506437399" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- LeetCode Button -->
+  <a href="https://leetcode.com/u/AdityaCodes07/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
 ---
 
