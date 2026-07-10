@@ -39,12 +39,12 @@
 
 <p align="left">
   <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/aditya-mourya-506437399" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
 
   <!-- LeetCode Button -->
-  <a href="https://leetcode.com/u/AdityaCodes07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://shields.io" alt="LeetCode" />
   </a>
 </p>
