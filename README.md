@@ -1,7 +1,6 @@
 ### 💻 About Me
 
 * 🌱 I’m currently learning **Next.js, a React framework!**
-* 📫 How to reach me: **your-email@example.com**
 * 🎯 My current goal is to learn different **technologies & libraries** and complete my **Full Stack Development** journey.
 * 💻 Focused on learning, improving, and making projects.
 
